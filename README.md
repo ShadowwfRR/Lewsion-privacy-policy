@@ -15,7 +15,7 @@ server ids
 
 Following user can access ALL of the data
 
-1.[Shadow.#0001](discord.com/users/714739549598908489)\n [Ky.#1337](discord.com/users/1037612057127833610)
+1.[Shadow.#0001](discord.com/users/714739549598908489) n [Ky.#1337](discord.com/users/1037612057127833610)
 
 
 2.Following people can access whitelisted users / server settings data:
