@@ -9,6 +9,8 @@ user ids
 
 server ids 
 
+blacklisted user ids
+
 
 
 # 2. Who can access the data?
